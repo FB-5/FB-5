@@ -1,26 +1,31 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+🤙;Eu+sou+o+Filipe&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Seja+bem+vindo!&center=true&size=30">
   </a>
 </h1>
 
 <h3>🚀 Estudando novas tecnologias! 💻</h3><hr>
 
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
-<a href="" title="HTML"><img src="icons/html.png" /></a>
-<a href="" title="CSS"><img src="icons/css.png" /></a>
-<a href="https://pugjs.org/" title="Pug"><img src="icons/pug.png" /></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/mongodb.png" /></a>
-<a href="https://firebase.google.com" title="Firebase"><img src="icons/firebase.png" /></a>
-<a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.blender.org" title="Blender"><img src="icons/blender.png" /></a>
+<p align="left">
+<a href="https://github.com/FB-5">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FB-5&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=netbeans&logoColor=white)&nbsp;
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0085D1?style=flat-square&logo=Bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/-PyCharm-0085D1?style=flat-square&logo=PyCharm&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0085D1?style=flat-square&logo=Python&logoColor=white)
 
 
 
