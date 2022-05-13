@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1> 💻  Estudando novas tecnologias! 🚀 </h1><hr>
+<h1> 💻 🚀 </h1><hr>
 
 <p align="left">
 <a href="https://github.com/FB-5">
