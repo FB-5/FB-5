@@ -1,10 +1,10 @@
 
 
-<h1> 💻 <h1 align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Seja+bem+vindo!&center=true&size=30">
   </a>
-</h1> 🚀 </h1><hr>
+</h1> 
 
 <p align="left">
 <a href="https://github.com/FB-5">
