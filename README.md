@@ -1,17 +1,5 @@
 
 
- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Seja+bem+vindo!&center=true&size=30">
-  </a>
-</h1> 
-
-<p align="left">
-<a href="https://github.com/FB-5">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FB-5&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
-
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
